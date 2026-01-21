@@ -1,0 +1,10 @@
+# only ignore root-level directories
+/datasets/
+/ckpts/
+__pycache__/
+/tmp/
+
+# python
+*.py[cod]
+*.so
+*.egg

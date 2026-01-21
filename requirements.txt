@@ -1,0 +1,13 @@
+
+opencv-python
+timm
+einops
+pytorch-lightning==2.2.5
+joblib
+trimesh
+imageio
+pandas
+omegaconf
+spconv-cu118
+torchmetrics==0.11.4
+tensorboard
